@@ -1,4 +1,4 @@
-### Welcome to My Page 👋
+### Welcome 👋
 
 I love to make apps/products and code.
 
