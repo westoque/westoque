@@ -4,5 +4,5 @@ I love to make apps/products and code.
 
 📫 How to reach me:
 
-- 🐣 https://twitter.com/westoque
+- 🐣 https://x.com/westoque
 - 💻 http://westoque.com
